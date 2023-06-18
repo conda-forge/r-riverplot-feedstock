@@ -1,11 +1,11 @@
-About r-riverplot
-=================
+About r-riverplot-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-riverplot-feedstock/blob/main/LICENSE.txt)
 
 Home: http://logfc.wordpress.com
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-riverplot-feedstock/blob/main/LICENSE.txt)
 
 Summary: Sankey plots are a type of diagram that is convenient to illustrate how flow of information, resources etc. separates and joins, much like observing how rivers split and merge. For example, they can be used to compare different clusterings.
 
