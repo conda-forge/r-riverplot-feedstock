@@ -1,6 +1,5 @@
 {% set version = "0.10" %}
 {% set posix = 'm2-' if win else '' %}
-{% set native = 'm2w64-' if win else '' %}
 
 package:
   name: r-riverplot
@@ -13,8 +12,7 @@ source:
   sha256: 723df628cdb527d5e96d5c610082f84aa9a606c56143390e1da0bba3740b5711
 
 build:
-  merge_build_host: true  # [win]
-  number: 2
+  number: 3
   noarch: generic
   rpaths:
     - lib/R/lib/
